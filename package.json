@@ -1,7 +1,7 @@
 {
   "name": "water-hello",
   "private": true,
-  "version": "0.0.4",
+  "version": "0.0.5",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -16,7 +16,7 @@
     "@types/node": "^22.10.5",
     "@vitejs/plugin-vue": "^5.2.1",
     "@vitejs/plugin-vue-jsx": "^4.1.1",
-    "typescript": "~5.6.2",
+    "typescript": "^5.7.3",
     "vite": "^6.0.7",
     "vue-tsc": "^2.1.10"
   }
