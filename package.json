@@ -1,7 +1,7 @@
 {
   "name": "water-hello",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.4",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,15 +9,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vant": "^4.9.10",
+    "vant": "^4.9.15",
     "vue": "^3.5.13"
   },
   "devDependencies": {
-    "@types/node": "^22.10.2",
+    "@types/node": "^22.10.5",
     "@vitejs/plugin-vue": "^5.2.1",
     "@vitejs/plugin-vue-jsx": "^4.1.1",
     "typescript": "~5.6.2",
-    "vite": "^6.0.1",
+    "vite": "^6.0.7",
     "vue-tsc": "^2.1.10"
   }
 }
